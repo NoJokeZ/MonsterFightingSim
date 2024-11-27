@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Monster fighting sim/1.0.0": {
+        "runtime": {
+          "Monster fighting sim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Monster fighting sim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
